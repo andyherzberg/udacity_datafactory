@@ -1,0 +1,9 @@
+{
+	"name": "adlsnycpayroll-data-factory",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a9604572-f65d-4b04-b9d2-2013cb74af2e",
+		"tenantId": "1d9778c0-e170-4cdd-ae05-2cb62f3a17a1"
+	}
+}

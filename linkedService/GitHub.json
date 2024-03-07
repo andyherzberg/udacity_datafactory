@@ -1,0 +1,12 @@
+{
+	"name": "GitHub",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "GitHub",
+		"typeProperties": {
+			"username": "andyherzberg@yahoo.de",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDUyOUZBMzA3LTI4M0MtNDQxRS04ODEyLTMxOEVENzk1MkVFNF9jMWU1YjI0Mi02NTc0LTRjM2MtODY0Zi0wM2UzNGU5ODdjYjUiDQp9"
+		}
+	}
+}
