@@ -1,0 +1,30 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "adlsnycpayroll-data-factory"
+		},
+		"GitHub_credential": {
+			"value": ""
+		},
+		"ls_azure_datalake_gen2_accountKey": {
+			"value": ""
+		},
+		"ls_sql_db_connectionString": {
+			"value": ""
+		},
+		"GitHub_properties_typeProperties_username": {
+			"value": "andyherzberg@yahoo.de"
+		},
+		"ls_azure_datalake_gen2_properties_typeProperties_url": {
+			"value": "https://synapseaccadlsnycpayroll.dfs.core.windows.net/"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
